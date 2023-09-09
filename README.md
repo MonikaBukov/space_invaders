@@ -15,7 +15,7 @@ Space Invaders Remake: A classic remake of the Space Invaders game. Defend Earth
 </div>
 
 ## Demo
-[![YouTube Video](https://img.youtube.com/vi/0fAatk2J_BA.jpg)](https://youtu.be/0fAatk2J_BA)
+[![YouTube Video](https://img.youtube.com/vi/0fAatk2J_BA/0.jpg)](https://youtu.be/0fAatk2J_BA)
 
 ## Technologies Used
 
